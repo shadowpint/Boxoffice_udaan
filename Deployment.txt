@@ -1,0 +1,4 @@
+1. Apk file can be used to run the app in android device with API level 27 or below
+2. PostMan Querry screen shots are attached
+3. Github url of the project- https://github.com/dominicneeraj/Boxoffice_udaan
+4. Demo video link https://youtu.be/WMGilX3R93k or https://drive.google.com/file/d/13hR1_PVu3z_P_7d3xPWlBAwa7GF66VH7/view
